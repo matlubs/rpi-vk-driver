@@ -28,4 +28,4 @@ The driver currently supports the following Raspberry Pi models:
 - Compute Module 3 lite
 - Compute Module 3+
 - Compute Module 3+ lite
-
+This forked modification needs to be rejected .
